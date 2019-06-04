@@ -1,8 +1,5 @@
-# [wiggler](http://www.wigglersf.com)
-
-[![Build Status](https://travis-ci.org/falconater/ThesisProject.svg?branch=integrate)](https://travis-ci.org/falconater/ThesisProject)
-
-<img style="float: right;" src="resources/the_wiggle.png">
+# wiggler
+(Forked by carderne to play with some of the underlying methodologies.)
 
 Inspired by the well-traveled bike path in San Francisco affectionately named 'the wiggle',
 wiggler is an elevation-aware routing application that allows users to find routes in San Francisco that:
@@ -13,24 +10,12 @@ wiggler is an elevation-aware routing application that allows users to find rout
 4. find the fastest walking route from A to B using Tobler's hiking function
 5. find a loop route (A to A) for a user-defined distance that minimizes elevation changes
 
-We are deployed at [wigglersf.com](http://www.wigglersf.com)
-
-You can find out more about the engineering team [here](http://www.wigglersf.com/#/about) or on our contributor page.
 ## Screenshots
 
-#####Landing page: 
 ![home](resources/wiggler_front_page.png)
-
-#####Two of four total possible routes displayed
 ![paths](resources/wiggler_paths.png)
-
-#####3d perspective of the same routes
 ![3d](resources/wiggler_3d.png)
-
-#####Turn by turn directions and D3 visualization of elevation profiles
 ![directions](resources/wiggler_2d_directions.png)
-
-#####Loop running/biking route with same start and end point
 ![loop](resources/wiggler_loop.png)
 
 
